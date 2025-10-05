@@ -143,12 +143,12 @@ IDE de sua preferência (por exemplo: Visual Studio
 git clone https://github.com/seu-usuario/estacionamento-inteligente.git
 
 ```
-## 2. Acesse a pasta do projeto:
+### 2. Acesse a pasta do projeto:
 ```
 cd estacionamento-inteligente
 
 ```
-## 3. Compile e execute:
+### 3. Compile e execute:
 ```
 dotnet run
 
